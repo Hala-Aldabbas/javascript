@@ -19,20 +19,20 @@
 
 
 
-// //null
-// let marvel=null
-// console.log(marvel);
-// console.log(typeof(marvel));
+//null
+let marvel=null
+console.log(marvel);
+console.log(typeof(marvel));
 
-// //NaN
-// console.log('name' - 20)
-// console.log(20 - 'name' )
-// console.log(typeof NaN)
+//NaN
+console.log('name' - 20)
+console.log(20 - 'name' )
+console.log(typeof NaN)
 
-// //undefined
-// let d;
-// console.log(d)
-// console.log(typeof(d))
+//undefined
+let d;
+console.log(d)
+console.log(typeof(d))
 
 
 
